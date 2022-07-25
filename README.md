@@ -46,16 +46,16 @@
 🟠 PYTHON <br>
 <br>
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="80" height="60"/>
+<!--- BEAUTIFUL SOUP (WEB SCRAPING) --->
+🟠 BEAUTIFUL SOUP (WEB SCRAPING) <br>
+ <br>
+<img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="60" height="60"/>
 
 ## Estou aprendendo
 <!--- PENTAHO --->
 🟡 PENTAHO <br>
 <br>
 <img src="http://databool.com/wp-content/uploads/2020/03/o-que-e-pentaho.png" width="60" height="60"/>
-<!--- BEAUTIFUL SOUP (WEB SCRAPING) --->
-🟡 BEAUTIFUL SOUP (WEB SCRAPING) <br>
- <br>
-<img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="60" height="60"/>
 <!--- TABLEAU --->
 🟡 TABLEAU <br>
 <br>
