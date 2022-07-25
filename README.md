@@ -3,7 +3,8 @@
 ## Olá, me chamo Marcelo ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando com Data Intelligence e Data Analytics 
+- 🔭 Trabalho com Business Intelligence , Data Intelligence e Data Analytics 
+- 🌱 Atualmente estou me capacitando em MICROSOFT INTEGRATIONS SERVICES, PENTAHO e AGILE
 - 📫 Como entrar em contato comigo: <a href = "mailto:marcelomuniz64301@gmail.com"><br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!---
