@@ -65,6 +65,12 @@
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_Logo_%282013-2017%29.svg/500px-Visual_Studio_Logo_%282013-2017%29.svg.png?20131108173236" width="60" height="60"/>
 
+<div>
+<a href="https://github.com/marceloma27">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloma27&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marceloma27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <!---
 marceloma27/marceloma27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
