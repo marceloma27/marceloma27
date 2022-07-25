@@ -17,7 +17,7 @@
 
 ### Ferramentas e Tecnologias
 <!--- IBM COGNOS ---> <!--- R ---> <!--- PYTHON --->
-<img src="https://www.isnotdown.com/assets/pics/ibm-cognos.png" width="60" height="60"/> <img src="https://cran.r-project.org/Rlogo.svg" width="60" height="60"/> <img src="https://www.python.org/static/community_logos/python-logo.png" width="80" height="60"/>
+<img src="https://www.isnotdown.com/assets/pics/ibm-cognos.png" width="60" height="60"/>    <img src="https://cran.r-project.org/Rlogo.svg" width="60" height="60"/>    <img src="https://www.python.org/static/community_logos/python-logo.png" width="80" height="60"/>
 
 ### Estou aprendendo
 <!--- PENTAHO --->
