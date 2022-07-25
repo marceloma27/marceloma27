@@ -18,7 +18,7 @@
 - ⚡ Curiosidade: ...
 --->
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 <!--- IBM COGNOS ---> 
 IBM COGNOS <br>
 <img src="https://www.isnotdown.com/assets/pics/ibm-cognos.png" width="60" height="60"/>    
@@ -35,14 +35,16 @@ PYTHON <br>
  SQLITE <br>
  <img src="https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c645134e8f81.jpg" width="80" height="60"/>
 
-### Estou aprendendo
+## Estou aprendendo
 <!--- PENTAHO --->
 PENTAHO <br>
 <img src="http://databool.com/wp-content/uploads/2020/03/o-que-e-pentaho.png" width="60" height="60"/>
 <!--- BEAUTIFUL SOUP (WEB SCRAPING) --->
  BEAUTIFUL SOUP (WEB SCRAPING) <br>
 <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="60" height="60"/>
-
+<!--- TABLEAU --->
+TABLEAU <br>
+<img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/Tableau-Logo-1-800x800.jpg" width="60" height="60"/>
 
 <!---
 marceloma27/marceloma27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
