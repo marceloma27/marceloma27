@@ -36,7 +36,7 @@
 <!--- R --->
 🟢 R <br>
 <br>
-<img src="https://cran.r-project.org/Rlogo.svg" width="60" height="60"/>  
+<img src="https://europeanhealtheconomics.com/wp-content/uploads/R-Programming-Online-Course-e1541588734550.jpg" width="80" height="60"/>  
 <!---SQLITE --->
 🟢 SQLITE <br>
 <br>
