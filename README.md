@@ -59,6 +59,10 @@
 🟡 TABLEAU <br>
 <br>
 <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/Tableau-Logo-1-800x800.jpg" width="60" height="60"/>
+<!--- MICROSOFT INTEGRATION SERVICES --->
+🟡  MICROSOFT INTEGRATION SERVICES <br>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_Logo_%282013-2017%29.svg/500px-Visual_Studio_Logo_%282013-2017%29.svg.png?20131108173236" width="60" height="60"/>
 
 <!---
 marceloma27/marceloma27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
