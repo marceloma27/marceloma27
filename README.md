@@ -19,8 +19,8 @@
 --->
 
 ## Ferramentas e Tecnologias 
-###### 🔵 especialista 🟢 proficiente 🟠 competente 🟡 aprendiz 
-
+###### 🔵 especialista 🟢 proficiente 🟠 competente 🟡 aprendiz <br>
+<br>
 <!--- IBM COGNOS ---> 
 🔵 IBM COGNOS <br>
 <br>
