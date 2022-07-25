@@ -19,32 +19,32 @@
 --->
 
 ## Ferramentas e Tecnologias 
-###### 🟡 aprendiz 🟠 competente 🟢 proficiente 🔵 especialista
+###### 🔵 especialista 🟢 proficiente 🟠 competente 🟡 aprendiz 
 
 <!--- IBM COGNOS ---> 
 🔵 IBM COGNOS <br>
 <br>
+ <!--- POWER BI --->
 <img src="https://www.isnotdown.com/assets/pics/ibm-cognos.png" width="60" height="60"/>    
+🔵 MICROSOFT POWER BI <br>
+<br>
+<!--- MICROSOFT SQL SERVER --->
+<img src="https://www.interop.com.br/wp-content/uploads/2019/04/power-BI.png" width="80" height="60"/>
+🔵 MICROSOFT SQL SERVER <br>
+<br>
+<img src="https://th.bing.com/th/id/OIP.JSrAdYAFOcWJJ_dTO2Rt1QHaD2?pid=ImgDet&rs=1" width="100" height="80"/>
 <!--- R --->
 🟢 R <br>
 <br>
-<img src="https://cran.r-project.org/Rlogo.svg" width="60" height="60"/>    
- <!--- PYTHON --->
-🟠 PYTHON <br>
-<br>
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="80" height="60"/>
- <!--- POWER BI --->
-🔵 MICROSOFT POWER BI <br>
-<br>
-<img src="https://www.interop.com.br/wp-content/uploads/2019/04/power-BI.png" width="80" height="60"/>
+<img src="https://cran.r-project.org/Rlogo.svg" width="60" height="60"/>  
 <!---SQLITE --->
 🟢 SQLITE <br>
 <br>
 <img src="https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c645134e8f81.jpg" width="80" height="60"/>
-<!--- MICROSOFT SQL SERVER --->
-🔵 MICROSOFT SQL SERVER <br>
+ <!--- PYTHON --->
+🟠 PYTHON <br>
 <br>
-<img src="https://th.bing.com/th/id/OIP.JSrAdYAFOcWJJ_dTO2Rt1QHaD2?pid=ImgDet&rs=1" width="100" height="80"/>
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="80" height="60"/>
 
 ## Estou aprendendo
 <!--- PENTAHO --->
