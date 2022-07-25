@@ -5,7 +5,6 @@
 
 - 🔭 Atualmente estou trabalhando com Data Intelligence e Data Analytics 
 - 📫 Como entrar em contato comigo: <a href = "mailto:marcelomuniz64301@gmail.com"><br/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-- ⚡ Curiosidade: Aficcionado por STAR WARS 🛸, praticante de artes marciais (jiu jitsu, muay thai) 🥋, torcedor do Fortaleza E.C ⚽, pai de 4 filhos 👨‍👨‍👧‍👦e casado com uma LINDA mulher 🥰!  
 
 <!---
 - 🔭 Atualmente estou trabalhando ... 
@@ -16,6 +15,7 @@
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
+- ⚡ Curiosidade: Aficcionado por STAR WARS 🛸, praticante de artes marciais (jiu jitsu, muay thai) 🥋, torcedor do Fortaleza E.C ⚽, pai de 4 filhos 👨‍👨‍👧‍👦e casado com uma LINDA mulher 🥰!  
 --->
 
 ## Ferramentas e Tecnologias 
