@@ -22,46 +22,56 @@
 ## Ferramentas e Tecnologias 
 ###### 🔵 especialista 🟢 proficiente 🟠 competente 🟡 aprendiz <br>
 <br>
-<!--- IBM COGNOS ---> 
-🔵 IBM COGNOS <br>
+<!--- IBM COGNOS --->
+
+###### 🔵 IBM COGNOS <br>
 <br>
  <!--- POWER BI --->
 <img src="https://www.isnotdown.com/assets/pics/ibm-cognos.png" width="60" height="60"/>    
-🔵 MICROSOFT POWER BI <br>
+
+###### 🔵 MICROSOFT POWER BI <br>
 <br>
 <!--- MICROSOFT SQL SERVER --->
 <img src="https://www.interop.com.br/wp-content/uploads/2019/04/power-BI.png" width="80" height="60"/>
-🔵 MICROSOFT SQL SERVER <br>
+
+###### 🔵 MICROSOFT SQL SERVER <br>
 <br>
 <img src="https://th.bing.com/th/id/OIP.JSrAdYAFOcWJJ_dTO2Rt1QHaD2?pid=ImgDet&rs=1" width="100" height="80"/>
 <!--- R --->
-🟢 R <br>
+
+###### 🟢 R <br>
 <br>
 <img src="https://europeanhealtheconomics.com/wp-content/uploads/R-Programming-Online-Course-e1541588734550.jpg" width="80" height="60"/>  
 <!---SQLITE --->
-🟢 SQLITE <br>
+
+###### 🟢 SQLITE <br>
 <br>
 <img src="https://cdn.ourcodeworld.com/public-media/articles/articleocw-5c645134e8f81.jpg" width="80" height="60"/>
  <!--- PYTHON --->
-🟠 PYTHON <br>
+
+###### 🟠 PYTHON <br>
 <br>
 <img src="https://www.python.org/static/community_logos/python-logo.png" width="80" height="60"/>
 <!--- BEAUTIFUL SOUP (WEB SCRAPING) --->
-🟠 BEAUTIFUL SOUP (WEB SCRAPING) <br>
+
+###### 🟠 BEAUTIFUL SOUP (WEB SCRAPING) <br>
  <br>
 <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" width="60" height="60"/>
 
 ## Estou aprendendo
 <!--- PENTAHO --->
-🟡 PENTAHO <br>
+
+###### 🟡 PENTAHO <br>
 <br>
 <img src="http://databool.com/wp-content/uploads/2020/03/o-que-e-pentaho.png" width="60" height="60"/>
 <!--- TABLEAU --->
-🟡 TABLEAU <br>
+
+###### 🟡 TABLEAU <br>
 <br>
 <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/Tableau-Logo-1-800x800.jpg" width="60" height="60"/>
 <!--- MICROSOFT INTEGRATION SERVICES --->
-🟡  MICROSOFT INTEGRATION SERVICES <br>
+
+###### 🟡  MICROSOFT INTEGRATION SERVICES <br>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_Logo_%282013-2017%29.svg/500px-Visual_Studio_Logo_%282013-2017%29.svg.png?20131108173236" width="60" height="60"/>
 
